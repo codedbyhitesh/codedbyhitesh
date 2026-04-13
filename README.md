@@ -140,9 +140,15 @@ For cross-cutting concerns (auth, audit, logging), I implement them as middlewar
 
 ## GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=codedbyhitesh&show_icons=true...
-https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyhitesh&layout=compact...
-https://github-readme-streak-stats.herokuapp.com/?user=codedbyhitesh&theme=github-dark-blue...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyhitesh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyhitesh&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyhitesh&theme=github-dark-blue&hide_border=true" height="150" />
+</p>
+
 ---
 
 ## Currently Working On
